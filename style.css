@@ -1,0 +1,294 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    float: left;
+    background-color: whitesmoke;
+}
+
+.mobile-device {
+    width: 25%;
+    height: 550px;
+    margin: 50px auto;
+    border-radius: 18px;
+    overflow: hidden;
+    background-color: whitesmoke;
+    box-shadow: -2px 8px 4px 0px #f2f2f2, 
+    -20px 20px 50px 0px rgba(0, 0, 0, 0.25);
+}
+
+.icon-1 {
+    width: 95%;
+    margin: auto;
+}
+
+.icon-1 p {
+    position: absolute;
+    font-size: 18px;
+    color: #333;
+    margin-top: 3px;
+    font-weight: 400;
+}
+
+.icon-1 i {
+    float: right;
+    color: #333;
+    padding: 8px 4px 0 0;
+    font-size: 15px;
+}
+
+.icon-2 {
+    width: 95%;
+    margin: 45px auto;
+}
+
+.icon-2 i {
+    color: #333;
+    font-size: 22px;
+}
+
+.fa-ellipsis-v {
+    float: right;
+    font-weight: 200;
+}
+
+.google {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    font-weight: 800;
+    font-size: 45px;
+    letter-spacing: -3px;
+}
+
+.g {
+    color: #4285f4;
+}
+
+.o-1, .e{
+    color: #db4437;
+}
+
+.o {
+    color: #f4b400; 
+}
+
+.l {
+    color: #0f9d58;
+}
+
+.search-bar {
+    position: relative;
+    width: 100%;
+    height: 40px;
+    border-radius: 50px;
+    margin-top: 20px;
+    box-shadow: 0 5px 7px rgba(0, 0, 0, 0.15);
+    background-color: whitesmoke;
+    background-image: -webkit-linear-gradient(top, #f8f8f8, #f1f1f1);
+    transition: all .5s ease;
+}
+
+.search-bar:hover {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+.search-i {
+    position: absolute;
+    left: 40px;
+    font-size: 15px;
+    background: none;
+    color: lightgray;
+    width: 70%;
+    height: 20px;
+    border: none;
+    outline: none;
+    background: transparent;
+    top: 8px;
+    font-family: sans-serif;
+}
+
+.search-b {
+    position: absolute;
+    left: 15px;
+    top: 8px;
+    width: 10px;
+    height: 20px;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    border: none;
+    outline: none !important;
+    font-size: 15px;
+    background: none;
+    cursor: pointer;
+}
+
+.voice {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.voice img {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    left: 115px;
+    bottom: 15px;
+    cursor: pointer;
+}
+
+.icons {
+    width: 95%;
+    margin: 10px auto;
+}
+
+.b-icons {
+    position: relative;
+    padding-top: 13px;
+    width: 40px;
+    height: 40px;
+    float: left;
+    border-radius: 50%;
+    text-align: center;
+    background: lightgray;
+    cursor: pointer;
+    box-shadow: -8px -8px 20px 0px #fff, 
+    -6px -6px 6px 0px #fff, 
+    8px 8px 20px 0px #0001,
+    5px 5px 6px 0px #0001,
+    inset 0px 0px 0px 0px #fff,
+    inset 0px 0px 0px 0px #0001,
+    inset 0px 0px 0px 0px #fff,
+    inset 0px 0px 0px 0px #0001;
+    margin: 40px 20px;
+    transition: .4s ease;
+    font-size: 20px;
+}
+
+.b-icons p {
+    position: absolute;
+    top: 60px;
+    left: 1px;
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #333;
+}
+
+.b-icons .fa-youtube {
+    color: #f00;
+}
+
+.b-icons .fa-font-awesome {
+    color: dodgerblue;
+}
+
+.b-icons .fa-twitter {
+    color: #00acee;
+}
+
+.b-icons .fa-linkedin {
+    color: #0e76a8;
+}
+
+.b-icons .fa-envelope {
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
